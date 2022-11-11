@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674361254048",
+    "project_id": "ifraa-80903",
+    "storage_bucket": "ifraa-80903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674361254048:android:a5704ec679810bf81f29c5",
+        "android_client_info": {
+          "package_name": "com.example.ifraa_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674361254048-ou7ula6uek14co8ihbebrl0ng0h2r997.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJkpvENMzbrvRlJM5sn3egBp_DsqQDU0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674361254048-ou7ula6uek14co8ihbebrl0ng0h2r997.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
